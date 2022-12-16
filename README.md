@@ -34,7 +34,8 @@ Screen : This is the folder where major screens of the app would live.
 ## App Demo:
 
 ### iPhone 14 Pro Simulator Run
-![](https://github.com/oSamDavis/Fruitopedia/blob/dev/iphone14-pro-sim.gif)
+![](https://github.com/oSamDavis/Fruitopedia/blob/dev/iPhone14-pro-run.gif)
 
+TODO(oSamDavis) : Improve the quality of iPad gif 
 ### iPad Pro Simulator Run
 ![](https://github.com/oSamDavis/Fruitopedia/blob/dev/ipad-pro-sim.gif)
