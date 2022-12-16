@@ -32,5 +32,9 @@ Views : This is the folder where smaller views/components would live.
 Screen : This is the folder where major screens of the app would live.
 
 ## App Demo:
-TODO(oSamDavis): Add video gif
+TODO(oSamDavis): iPhone 14 pro simulator
+
+
+
+TODO(oSamDavis): iPad pro simulator
 
